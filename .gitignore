@@ -1,0 +1,45 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Build artifacts
+*.pyc
+__pycache__/
+*.o
+*.so
+*.dll
+
+# Forensics artifacts (DO NOT COMMIT REAL EVIDENCE!)
+*.img
+*.vdi
+*.raw
+*.dd
+*.e01
+*.aff
+*.mem
+*.dmp
+*.bin
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*~
+
+# Logs
+*.log
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Environment variables
+.env
+.env.local
