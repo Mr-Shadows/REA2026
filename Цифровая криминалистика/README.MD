@@ -1,4 +1,3 @@
-```markdown
 # 🔍 Digital Forensics CTF Guide — Полное руководство по расследованию цифровых инцидентов
 
 ![Forensics Workflow](https://img.shields.io/badge/Methodology-Systematic-blue?logo=github)
@@ -119,7 +118,7 @@ sudo apt update && sudo apt install -y sleuthkit autopsy binwalk testdisk plaso-
    git push origin feature/AmazingFeature
    ```
 5. Откройте Pull Request
-```markdown
+
 
 ### 💡 Как проверить у себя:
 
@@ -134,4 +133,3 @@ sudo apt update && sudo apt install -y sleuthkit autopsy binwalk testdisk plaso-
 4. Если видите сплошной текст без отступов → ошибка в синтаксисе
 
 Совет: всегда добавляйте **пустую строку** между заголовком и следующим блоком — это обязательное правило Markdown!
-```
