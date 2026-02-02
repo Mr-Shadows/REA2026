@@ -1,3 +1,4 @@
 https://alice.yandex.ru/
 https://gemini.google.com/app
 https://giga.chat/
+https://deepai.org/chat/gpt-chat#becdff67-e7af-40f1-85d3-81111ca81ee0
